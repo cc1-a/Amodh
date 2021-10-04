@@ -18,9 +18,15 @@ a {
 }
 
 img {
+    border: .3em solid gray;
+    padding: .2em;
     border-radius: 40em;
     height: 40vh;
     width: 40vh;
+}
+
+img:hover {
+    padding: .3em;
 }
 
 .sectionSignging {
