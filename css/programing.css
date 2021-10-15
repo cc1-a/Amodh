@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('../Image@1x.png');
+    background-image: url('../assets/Image@1x.png');
     background-size: contain;
     color: white;
     text-align: center;
@@ -28,5 +28,22 @@ a {
     vertical-align: middle;
 }
 
+.design_1 {
+    position: absolute;
+    top: 0px;
+    left: 1px;
+}
 
-/* .container {} */
+.design_2 {
+    position: absolute;
+    top: 120px;
+    left: 279px;
+}
+
+.design_3 {
+    position: absolute;
+    top: 20;
+    left: -1px;
+}
+
+.container {}
